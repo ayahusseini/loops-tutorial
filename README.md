@@ -3,7 +3,15 @@
 Loops is a repository that explores area calculation of loops 
 
 ### Files
-- `generate_fake_loop.py` is used to generate fake data 
+- `generate_fake_loop.py` is used to generate fake data
+
+
+### Usage
+Use 
+```sh
+uv run filename.py
+```
+to run any file 
 
 ## Setup 
 

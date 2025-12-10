@@ -8,4 +8,5 @@ dependencies = [
     "numpy>=2.3.5",
     "pytest>=9.0.2",
     "matplotlib>=3.8.0",
+    "ipykernel>=7.1.0",
 ]
