@@ -1,8 +1,9 @@
-## Loops
+# Loops
 
 Loops is a small tutorial on hysterisis loop properties in numpy
 
-### Files
+## Files
+
 - `generate_fake_loop.py` is used to generate fake data
 - `tutorial.ipynb` - notebook showing how different properties can be calculated.
 
@@ -22,6 +23,3 @@ to run any file
 
 0. If you haven't, install UV: `curl -LsSf https://astral.sh/uv/install.sh | sh` (or see [installation instructions](https://github.com/astral-sh/uv#installation))
 1. Install dependencies: `uv sync`
-2. `cd` into the correct folder `cd YYYY/day_x/`
-3. Run code: `uv run python3 day_x.py` 
-4. Run tests: `uv run pytest -vv` 
