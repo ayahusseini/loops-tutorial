@@ -1,9 +1,10 @@
 ## Loops
 
-Loops is a repository that explores area calculation of loops 
+Loops is a small tutorial on hysterisis loop properties in numpy
 
 ### Files
 - `generate_fake_loop.py` is used to generate fake data
+- `tutorial.ipynb` - notebook showing how different properties can be calculated.
 
 
 ### Usage
