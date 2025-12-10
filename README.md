@@ -2,6 +2,9 @@
 
 Loops is a repository that explores area calculation of loops 
 
+### Files
+- `generate_fake_loop.py` is used to generate fake data 
+
 ## Setup 
 
 ### Using UV (Recommended)
